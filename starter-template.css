@@ -1,0 +1,28 @@
+body {
+	overflow-y: hidden;
+	padding-top:10px;
+}
+.starter-template {
+  text-align: center;
+}
+
+#ass {
+	position: fixed;
+	left: 50%
+	margin-left: -210px;
+	top: 50%;
+	z-index: 99;
+
+}
+
+#collin {
+	position: fixed;
+	margin-left: -85px;
+	left: 50%;
+}
+
+#imageContainer {
+	height: 350px;
+	width: 250px;
+	margin: auto;
+}
